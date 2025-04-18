@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CoreMart00\\CoreMart.PL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|d:\\coremart00\\coremart.pl\\coremart.pl\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|d:\\coremart00\\coremart.pl\\coremart.pl\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\CoreMart00\\CoreMart.PL\\CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\CoreMart00\\CoreMart.PL\\CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHMAAAAAp5mZmdktwHoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:07:15.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\CoreMart00\\CoreMart.PL\\CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\CoreMart00\\CoreMart.PL\\CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T14:54:03.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
