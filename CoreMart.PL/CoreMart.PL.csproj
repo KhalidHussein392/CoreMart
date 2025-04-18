@@ -22,4 +22,8 @@
     <ProjectReference Include="..\CoreMart.DAL\CoreMart.DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Utility\" />
+  </ItemGroup>
+
 </Project>

@@ -9,11 +9,16 @@ namespace CoreMart.BLL.Repository.Interface
 {
     public interface IShppingCartRepository
     {
-        Task<IEnumerable<ShoppingCart>> GetAllAsync();
-        Task<ShoppingCart> GetByIdAsync(int? id);
-        Task<IEnumerable<ShoppingCart>> GetByCategoryIdAsync(int? categoryId);
-        Task AddAsync(ShoppingCart product);
-        Task UpdateAsync(ShoppingCart product);
-        Task DeleteAsync(ShoppingCart product);
+        //Task<IEnumerable<ShoppingCart>> GetAllAsync();
+        //Task<ShoppingCart> GetByIdAsync(int? id);
+        //Task<IEnumerable<ShoppingCart>> GetByCategoryIdAsync(int? categoryId);
+        //Task AddtoCartAsync(ShoppingCart cart);
+        //Task UpdatetoCartAsync(ShoppingCart cart);
+        //Task DeletefromCartAsync(ShoppingCart cart);
+
+        List<ShoppingCart> GetCartItems();
+        void AddToCart(Product product);
+        void RemoveFromCart(int productId);
+        void ClearCart();
     }
 }

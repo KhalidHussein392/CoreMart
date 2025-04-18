@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreMart.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bd2a6e2879790d87a379264b534e137bd17ca18")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreMart.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreMart.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

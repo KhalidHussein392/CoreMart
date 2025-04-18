@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CoreMart00\\CoreMart.PL\\",
+  "WorkspaceRootPath": "E:\\projects\\mvc\\DEPI\\CoreMart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|d:\\coremart00\\coremart.pl\\coremart.pl\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.DAL\\Migrations\\20250418180708_updateshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoreMart.DAL\\Migrations\\20250418180708_updateshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|d:\\coremart00\\coremart.pl\\coremart.pl\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\depi\\coremart\\coremart.pl\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\depi\\coremart\\coremart.pl\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225F70C7-92BD-4DDF-AF5F-9BCE40B394DB}|CoreMart.BLL\\CoreMart.BLL.csproj|e:\\projects\\mvc\\depi\\coremart\\coremart.bll\\repository\\implementation\\shoppingcartsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225F70C7-92BD-4DDF-AF5F-9BCE40B394DB}|CoreMart.BLL\\CoreMart.BLL.csproj|solutionrelative:coremart.bll\\repository\\implementation\\shoppingcartsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225F70C7-92BD-4DDF-AF5F-9BCE40B394DB}|CoreMart.BLL\\CoreMart.BLL.csproj|e:\\projects\\mvc\\depi\\coremart\\coremart.bll\\repository\\interface\\ishppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225F70C7-92BD-4DDF-AF5F-9BCE40B394DB}|CoreMart.BLL\\CoreMart.BLL.csproj|solutionrelative:coremart.bll\\repository\\interface\\ishppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52461CF3-BBE2-4EF7-A95B-C2AF6BAD18ED}|CoreMart.DAL\\CoreMart.DAL.csproj|e:\\projects\\mvc\\depi\\coremart\\coremart.dal\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52461CF3-BBE2-4EF7-A95B-C2AF6BAD18ED}|CoreMart.DAL\\CoreMart.DAL.csproj|solutionrelative:coremart.dal\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\CoreMart00\\CoreMart.PL\\CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "D:\\CoreMart00\\CoreMart.PL\\CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAHMAAAAAp5mZmdktwHoAAAArAAAAAAAAAA==",
+              "Title": "20250418180708_updateshopping.cs",
+              "DocumentMoniker": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.DAL\\Migrations\\20250418180708_updateshopping.cs",
+              "RelativeDocumentMoniker": "CoreMart.DAL\\Migrations\\20250418180708_updateshopping.cs",
+              "ToolTip": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.DAL\\Migrations\\20250418180708_updateshopping.cs",
+              "RelativeToolTip": "CoreMart.DAL\\Migrations\\20250418180708_updateshopping.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T15:07:15.473Z",
+              "WhenOpened": "2025-04-18T18:07:10.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\CoreMart00\\CoreMart.PL\\CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\CoreMart00\\CoreMart.PL\\CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "CoreMart.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Title": "CartIndex.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.PL\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Views\\Cart\\CartIndex.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.PL\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Views\\Cart\\CartIndex.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T14:54:03.806Z",
+              "WhenOpened": "2025-04-18T18:05:12.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.PL\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.PL\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CoreMart.PL\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:43:24.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.DAL\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "CoreMart.DAL\\Models\\ShoppingCart.cs",
+              "ToolTip": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.DAL\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "CoreMart.DAL\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:39:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShppingCartRepository.cs",
+              "DocumentMoniker": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.BLL\\Repository\\Interface\\IShppingCartRepository.cs",
+              "RelativeDocumentMoniker": "CoreMart.BLL\\Repository\\Interface\\IShppingCartRepository.cs",
+              "ToolTip": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.BLL\\Repository\\Interface\\IShppingCartRepository.cs",
+              "RelativeToolTip": "CoreMart.BLL\\Repository\\Interface\\IShppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:37:27.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCartSessionService.cs",
+              "DocumentMoniker": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.BLL\\Repository\\Implementation\\ShoppingCartSessionService.cs",
+              "RelativeDocumentMoniker": "CoreMart.BLL\\Repository\\Implementation\\ShoppingCartSessionService.cs",
+              "ToolTip": "E:\\projects\\mvc\\DEPI\\CoreMart\\CoreMart.BLL\\Repository\\Implementation\\ShoppingCartSessionService.cs",
+              "RelativeToolTip": "CoreMart.BLL\\Repository\\Implementation\\ShoppingCartSessionService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:36:20.017Z",
               "EditorCaption": ""
             }
           ]

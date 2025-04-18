@@ -44,6 +44,9 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>(option =>
 builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
 
 
+builder.Services.AddSession();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddScoped<IShppingCartRepository, ShoppingCartSessionService>();
 
 
 
@@ -64,6 +67,9 @@ app.UseRouting();
 
 app.UseAuthentication();
 app.UseAuthorization();
+
+app.UseSession();
+
 app.MapRazorPages();
 
 

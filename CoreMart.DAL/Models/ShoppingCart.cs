@@ -18,8 +18,8 @@ namespace CoreMart.DAL.Models
         public int ProductId { get; set; }
         public Product Product { get; set; }
         public int Count { get; set; }
-
-
-
+        public string Name { get; set; }
+        public decimal Price { get; set; }
+        public string ImageURL { get; set; }
     }
 }
